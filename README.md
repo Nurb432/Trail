@@ -1,4 +1,4 @@
-![screenshot](https://github.com/mdoege/Trail/raw/master/screenshot2.png)
+![screenshot](https://github.com/mdoege/Trail/raw/master/screenshot.png)
 
 
 Trail — A Python web browser based on Grail 0.6
